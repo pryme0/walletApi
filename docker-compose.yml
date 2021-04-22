@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  walletapi:
+    image: walletapi
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+        NODE_ENV: production
+    ports:
+      - 9000:9000
+    db:
+      image: mongo
+      ports:
+      - "27017:27017"
