@@ -13,7 +13,7 @@
     "cookie-parser": "~1.4.4",
     "currency-converter": "^0.1.12",
     "debug": "~2.6.9",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "fixer-api": "^2.2.0",
