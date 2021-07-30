@@ -1,4 +1,4 @@
-FROM node:12.18-alpine
+FROM node:erbium-alpine
 ENV NODE_ENV=development
 ENV MONGO_DB_PROD_URL =
 ENV JWT_SECRET_KEY=
