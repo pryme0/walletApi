@@ -14,7 +14,7 @@
     "currency-converter": "^0.1.12",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
-    "ejs": "~2.6.1",
+    "ejs": "~3.1.7",
     "express": "~4.16.1",
     "fixer-api": "^2.2.0",
     "http-errors": "~1.6.3",
